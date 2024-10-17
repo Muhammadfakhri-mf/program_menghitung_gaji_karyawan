@@ -1,1 +1,1 @@
-# program_menghitung_gaji_karyawan
+# program_menghitung_gaji_pegawai
